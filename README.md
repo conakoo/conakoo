@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">👋 Hi, I'm Cona</h1>
-<h3 align="center">A passionate junior data engineer from Korea</h3>
+<h3 align="center">A passionate mid-level data engineer from Korea</h3>
 
 ### 💫 About Me
 - I **WRECK** it to find bugs. but I **FIX** it to make it a lot better.
